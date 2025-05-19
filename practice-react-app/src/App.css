@@ -1,0 +1,56 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgb(58, 109, 92);
+}
+
+.profile-container {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  margin-bottom:
+}
+
+.profile-card {
+    width: 350px;
+    height: 200px;
+    background: #c5d6e7;
+    border: 2px solid #ddd;
+    border-radius: 10px; 
+    padding: 30px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+    font-family: Arial, sans-serif;
+}
+
+.profile-card h3 {
+    margin-top: 15px;
+    font-size: 12px;
+    color: #03330f;
+    padding: 15px;
+} 
+
+.profile-card h2 {
+    margin: 10;
+    font-size: 24px;
+    color: #03330f;
+}
+
+.profile-card p {
+    margin: 5px 0;
+    Text-align: left;
+    font-size: 12pt;
+    color: #555;
+} 
+
+
+.app {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 24pt;
+    color: #e3f8bb;
+}
+
+
